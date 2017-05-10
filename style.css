@@ -1,0 +1,143 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  margin: 0px;
+}
+
+header {
+  background:#92e0e5;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+#icon {
+  height: 40px;
+  left: 15px;
+  position: inherit;
+  top: 5px;
+  width: 40px;
+}
+
+nav {
+  float: right;
+}
+
+.links {
+  color: #FFFFFF;
+  padding: 5px;
+  position: relative;
+  text-decoration: none;
+  top: 15px;
+  right: 15px;
+
+}
+
+#park-background {
+  background-image: url("images/park.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 420px;
+  position: relative;
+  top: -20px;
+}
+
+.main {
+  position: relative;
+  top: 55px;
+}
+
+h1 {
+  margin: 0px, 0px 15px 0px;
+  text-align: center;
+}
+
+#main-dog {
+  display: block;
+  margin: auto;
+}
+
+#button-space {
+  margin-top: 15px;
+
+  width: 140px;
+}
+
+.buttons {
+  background-color: #FFFFFF;
+  border: 3px solid #3F8DA7;
+  color: #3F8DA7;
+  display: block;
+  font-size: 16px;
+  font-weight: 500;
+  height: 30px;
+  margin: auto;
+  width: 120px;
+}
+
+.one, .two, .three {
+  float: left;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 29.9%;
+}
+
+.one {
+  margin-left: 15px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.two {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.three {
+  margin-right: 15px;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.dogImages {
+  border: 3px solid #3F8DA7;
+  border-radius: 50%;
+  margin: auto;
+  height: 200px;
+  width: 200px;
+}
+
+footer {
+  background-color: #3F8DA7;
+  clear: both;
+  height: 150px;
+}
+
+.footer-p {
+  color: #FFFFFF;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  top: 8px;
+  width: 200px;
+}
+
+.footer-links {
+  color: #FFFFFF;
+  display: block;
+  margin: auto;
+  position: relative;
+  text-align: center;
+  top: 30px;
+  width: 200px;
+}
+
+.social-media {
+  display: inline-block;
+  left: 510px;
+  margin: auto;
+  padding: 15px;
+  position: relative;
+  top: 20px;
+  width: 30px;
+}
